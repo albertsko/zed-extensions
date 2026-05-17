@@ -1205,7 +1205,7 @@ version = "0.1.2"
 
 [everforest]
 submodule = "extensions/everforest"
-version = "0.1.2"
+version = "0.1.3"
 
 [everforest-blurred]
 submodule = "extensions/everforest-blurred"
